@@ -24,9 +24,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     bootctrl.common
 
-PRODUCT_STATIC_BOOT_CONTROL_HAL := \
-    bootctrl
-
 PRODUCT_PACKAGES += \
     otapreopt_script \
     cppreopts.sh \
