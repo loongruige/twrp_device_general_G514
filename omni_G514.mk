@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/general/G514/device.mk)
 
 PRODUCT_DEVICE := G514
-PRODUCT_NAME := omni_G514
+PRODUCT_NAME := twrp_G514
 PRODUCT_BRAND := GM
 PRODUCT_MODEL := G514
 PRODUCT_MANUFACTURER := general
