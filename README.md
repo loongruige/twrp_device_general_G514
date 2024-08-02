@@ -1,22 +1,25 @@
 # Android device tree for GM G514 (G514)
 
+> [!CAUTION]
+> This device tree is based on an auto-generated device tree, and is being continously worked on to be stable. Please fork this repository and do your changes, or generate the same tree yourself.
+
 ## Device properties
 
 ![General Mobile GM 24 Pro](https://assets.generalmobile.com/images/gm24pro-7f8b8b30/s1-img-mobile.png.webp)
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | 2x 2.2 GHz ARM Cortex-A76 + 6x 2.0 GHz ARM Cortex-A55
-CHIPSET | Mediatek Helio G99 (MT6789)
+Chipset | Mediatek Helio G99 (MT6789)
 GPU     | Mali-G57 MC2
 Memory  | 8 GB
-Shipped Android Version | 13
+Shipped Android version | 13 (didoOS) (Vendor and Boot is 12)
 Storage | 256GB
 MicroSD | Up to 1TB
 Battery | 5000 mAh (non-removable)
 Display | 1080 x 2142, 6.7" AMOLED
-Rear Camera  | 50.0MP + 2.0MP + 0.08MP
-Front Camera | 16.0MP
-Release Date | August 2023
+Rear camera  | 50.0MP + 2.0MP + 0.08MP
+Front camera | 16.0MP
+Release date | 15 August 2023
 
 
 ## Resources
